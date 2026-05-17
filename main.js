@@ -69,3 +69,4 @@ class Experience {
 }
 
 new Experience();
+// Boilerplate initialized
