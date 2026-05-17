@@ -1,0 +1,48 @@
+:root {
+  --bg-color: #020408;
+  --text-primary: #F9F3E8;
+  --text-accent: #FFD700;
+  --gold-glow: #F5A623;
+  --sunset-orange: #FF6B35;
+  --ui-line: rgba(255, 215, 0, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-family: 'DM Sans', sans-serif;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+#experience-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+#ui-overlay {
+  position: relative;
+  z-index: 10;
+  pointer-events: none;
+}
+
+h1, h2, h3 {
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.monospace {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--text-accent);
+}
