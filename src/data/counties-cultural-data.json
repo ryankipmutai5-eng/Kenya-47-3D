@@ -1,0 +1,1583 @@
+{
+  "counties": [
+    {
+      "id": 1,
+      "name": "Mombasa",
+      "code": "001",
+      "capital": "Mombasa",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -3.990448,
+        "lng": 39.70112953
+      },
+      "population": 1208333,
+      "area_km2": 212.5,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "taarab music",
+      "dance": "",
+      "food": [
+        "biryani"
+      ],
+      "clothing": [
+        "kangas"
+      ],
+      "landmarks": [
+        "Fort Jesus",
+        "Old Town",
+        "Likoni ferry"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Swahili architecture, dhow boats",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 2,
+      "name": "Kwale",
+      "code": "002",
+      "capital": "Kwale",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -4.12059128,
+        "lng": 39.06613621
+      },
+      "population": 866820,
+      "area_km2": 8270.3,
+      "community": [
+        "Digo/Duruma people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Kaya forests"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "cassava farming"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "coastal villages, coconut culture",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 3,
+      "name": "Kilifi",
+      "code": "003",
+      "capital": "Kilifi",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -3.1524409,
+        "lng": 39.67270758
+      },
+      "population": 1453787,
+      "area_km2": 12245.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "ngoma dance",
+      "food": [
+        "muyeye fish"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Arabuko-Sokoke forest",
+        "Malindi ruins"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Giriama culture",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 4,
+      "name": "Tana River",
+      "code": "004",
+      "capital": "Hola",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -1.53491779,
+        "lng": 39.55028762
+      },
+      "population": 315943,
+      "area_km2": 35375.8,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "river fishing"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [
+        "hippos"
+      ],
+      "crafts": [
+        "doum palm weaving"
+      ],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Orma & Pokomo communities",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 5,
+      "name": "Lamu",
+      "code": "005",
+      "capital": "Lamu",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -2.06367919,
+        "lng": 40.54582958
+      },
+      "population": 143920,
+      "area_km2": 6497.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "UNESCO Old Town"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "Maulidi festival",
+      "historical": "",
+      "landscape": "donkeys, jahazi sailing, coral stone houses",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 6,
+      "name": "Taita-Taveta",
+      "code": "006",
+      "capital": "Mwatate",
+      "region": "Coast",
+      "coordinates": {
+        "lat": -3.40520335,
+        "lng": 38.37176029
+      },
+      "population": 340671,
+      "area_km2": 17083.9,
+      "community": [
+        "Taveta people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Taita Hills",
+        "Mbololo Forest"
+      ],
+      "wildlife": [
+        "Tsavo wildlife"
+      ],
+      "crafts": [
+        "soapstone carving"
+      ],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "",
+      "biome": "coastal",
+      "atmosphere_shader": "coastal_haze",
+      "color_accent": "#00A8CC"
+    },
+    {
+      "id": 7,
+      "name": "Garissa",
+      "code": "007",
+      "capital": "Garissa",
+      "region": "North Eastern",
+      "coordinates": {
+        "lat": -0.52048966,
+        "lng": 40.35559028
+      },
+      "population": 841353,
+      "area_km2": 45720.2,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "nyeri soup"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Somali culture, camel herding, nomadic life, mosques, desert landscape",
+      "biome": "arid",
+      "atmosphere_shader": "heat_haze",
+      "color_accent": "#E6BE8A"
+    },
+    {
+      "id": 8,
+      "name": "Wajir",
+      "code": "008",
+      "capital": "Wajir",
+      "region": "North Eastern",
+      "coordinates": {
+        "lat": 1.93971498,
+        "lng": 40.0245067
+      },
+      "population": 781263,
+      "area_km2": 55840.6,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "camel milk"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Northern Frontier pastoral life, Borana/Ajuran clans, dry savanna",
+      "biome": "arid",
+      "atmosphere_shader": "heat_haze",
+      "color_accent": "#E6BE8A"
+    },
+    {
+      "id": 9,
+      "name": "Mandera",
+      "code": "009",
+      "capital": "Mandera",
+      "region": "North Eastern",
+      "coordinates": {
+        "lat": 3.23096382,
+        "lng": 40.71134647
+      },
+      "population": 867457,
+      "area_km2": 25797.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "sorghum"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Tri-border culture (Kenya/Ethiopia/Somalia), Islamic architecture, camels",
+      "biome": "arid",
+      "atmosphere_shader": "heat_haze",
+      "color_accent": "#E6BE8A"
+    },
+    {
+      "id": 10,
+      "name": "Marsabit",
+      "code": "010",
+      "capital": "Marsabit",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": 2.86048025,
+        "lng": 37.71488446
+      },
+      "population": 459785,
+      "area_km2": 66923.1,
+      "community": [
+        "Gabra/Rendille/Borana people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Mount Marsabit forest",
+        "jade sea (Lake Turkana)"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "camel racing",
+      "biome": "arid",
+      "atmosphere_shader": "heat_haze",
+      "color_accent": "#E6BE8A"
+    },
+    {
+      "id": 11,
+      "name": "Isiolo",
+      "code": "011",
+      "capital": "Isiolo",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": 1.00638504,
+        "lng": 38.74765094
+      },
+      "population": 268002,
+      "area_km2": 25336.1,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Shaba Reserve"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Gateway to the north, Samburu/Borana/Somali mix, doum palms",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 12,
+      "name": "Meru",
+      "code": "012",
+      "capital": "Meru",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": 0.22905493,
+        "lng": 37.7761107
+      },
+      "population": 1545714,
+      "area_km2": 7003.1,
+      "community": [
+        "Meru people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Mount Kenya slopes",
+        "Meru National Park"
+      ],
+      "wildlife": [],
+      "crafts": [
+        "pottery"
+      ],
+      "economy": [
+        "miraa (khat) farming"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 13,
+      "name": "Tharaka-Nithi",
+      "code": "013",
+      "capital": "Kathwana",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": -0.19144518,
+        "lng": 37.96041722
+      },
+      "population": 393177,
+      "area_km2": 2609.5,
+      "community": [
+        "Tharaka people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "sorghum",
+        "honey farming"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "sacred forests"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "traditional granaries",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 14,
+      "name": "Embu",
+      "code": "014",
+      "capital": "Embu",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": -0.53282994,
+        "lng": 37.66462856
+      },
+      "population": 608599,
+      "area_km2": 2555.9,
+      "community": [
+        "Embu people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "tea & coffee farms"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Mount Kenya foothills"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Tana River source",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 15,
+      "name": "Kitui",
+      "code": "015",
+      "capital": "Kitui",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": -1.56049001,
+        "lng": 38.37181031
+      },
+      "population": 1136187,
+      "area_km2": 24385.1,
+      "community": [
+        "Kamba people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "honey wine"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [
+        "woodcarving"
+      ],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "makonde sculpture, baobab trees",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 16,
+      "name": "Machakos",
+      "code": "016",
+      "capital": "Machakos",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": -1.27623744,
+        "lng": 37.39459507
+      },
+      "population": 1421932,
+      "area_km2": 5952.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Iveti Hills",
+        "Makindu temple"
+      ],
+      "wildlife": [],
+      "crafts": [
+        "stone carving"
+      ],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Akamba culture, matunda orchards",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 17,
+      "name": "Makueni",
+      "code": "017",
+      "capital": "Wote",
+      "region": "Eastern",
+      "coordinates": {
+        "lat": -2.2536367,
+        "lng": 37.87666293
+      },
+      "population": 987653,
+      "area_km2": 8008.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Wambua homesteads",
+        "AMS mangoes"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Kibwezi forest"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "dry riverbeds",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 18,
+      "name": "Nyandarua",
+      "code": "018",
+      "capital": "Ol Kalou",
+      "region": "Central",
+      "coordinates": {
+        "lat": -0.38909294,
+        "lng": 36.49743136
+      },
+      "population": 638289,
+      "area_km2": 3107.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "sheep farming"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "Aberdare highlands, pyrethrum, cold highland mist, Kinangop",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 19,
+      "name": "Nyeri",
+      "code": "019",
+      "capital": "Nyeri",
+      "region": "Central",
+      "coordinates": {
+        "lat": -0.3143747,
+        "lng": 36.93047349
+      },
+      "population": 759164,
+      "area_km2": 2361.0,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "coffee farming"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Kikuyu heartland, Lord Baden-Powell grave, Treetops, Aberdare NP",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 20,
+      "name": "Kirinyaga",
+      "code": "020",
+      "capital": "Kerugoya",
+      "region": "Central",
+      "coordinates": {
+        "lat": -0.46735013,
+        "lng": 37.30190207
+      },
+      "population": 610411,
+      "area_km2": 1205.4,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "rice in Mwea"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Sacred Kirinyaga (Mt. Kenya), Gikuyu origin myths, green highlands",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 21,
+      "name": "Murang'a",
+      "code": "021",
+      "capital": "Murang'a",
+      "region": "Central",
+      "coordinates": {
+        "lat": -0.82851937,
+        "lng": 37.00417345
+      },
+      "population": 1056640,
+      "area_km2": 2325.8,
+      "community": [
+        "Kikuyu elders"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "banana plantations"
+      ],
+      "festival": "",
+      "historical": "freedom fighters heritage",
+      "landscape": "River Chania",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 22,
+      "name": "Kiambu",
+      "code": "022",
+      "capital": "Kiambu",
+      "region": "Central",
+      "coordinates": {
+        "lat": -1.03438495,
+        "lng": 36.8432158
+      },
+      "population": 2417735,
+      "area_km2": 2449.2,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Kiambethu tea estate"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Thika waterfalls"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "flower farming"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "Kikuyu land",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 23,
+      "name": "Turkana",
+      "code": "023",
+      "capital": "Lodwar",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 3.16248786,
+        "lng": 35.3134923
+      },
+      "population": 1504976,
+      "area_km2": 98597.8,
+      "community": [
+        "Turkana people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [
+        "beaded jewelry"
+      ],
+      "landmarks": [
+        "Lake Turkana (Jade Sea)"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "Loiyangalani festival",
+      "historical": "",
+      "landscape": "camel",
+      "biome": "arid",
+      "atmosphere_shader": "heat_haze",
+      "color_accent": "#E6BE8A"
+    },
+    {
+      "id": 24,
+      "name": "West Pokot",
+      "code": "024",
+      "capital": "Kapenguria",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 1.89337371,
+        "lng": 35.21276783
+      },
+      "population": 621241,
+      "area_km2": 8418.2,
+      "community": [
+        "Pokot warriors"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "sorghum beer"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "dry hills"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "circumcision rituals",
+      "historical": "",
+      "landscape": "Marich Pass",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 25,
+      "name": "Samburu",
+      "code": "025",
+      "capital": "Maralal",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 1.54137314,
+        "lng": 36.94153954
+      },
+      "population": 310327,
+      "area_km2": 20182.5,
+      "community": [
+        "Samburu warriors (Moran)"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [
+        "beaded jewelry"
+      ],
+      "landmarks": [],
+      "wildlife": [
+        "reticulated giraffe"
+      ],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Samburu NR",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 26,
+      "name": "Trans-Nzoia",
+      "code": "026",
+      "capital": "Kitale",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 1.0459151,
+        "lng": 34.9807775
+      },
+      "population": 990341,
+      "area_km2": 2469.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Suk Hills",
+        "Mount Elgon foothills"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "Wheat & maize breadbasket"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "Nzoia River",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 27,
+      "name": "Uasin Gishu",
+      "code": "027",
+      "capital": "Eldoret",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 0.47818764,
+        "lng": 35.30379897
+      },
+      "population": 1163186,
+      "area_km2": 2955.3,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "Kalenjin runners",
+        "Eldoret athletics"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "maize farms, Kipchoge legacy",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 28,
+      "name": "Elgeyo-Marakwet",
+      "code": "028",
+      "capital": "Iten",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 0.74510213,
+        "lng": 35.56085569
+      },
+      "population": 454480,
+      "area_km2": 3049.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "honey"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Kerio Valley, Marakwet irrigation furrows, cliff dwellers",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 29,
+      "name": "Nandi",
+      "code": "029",
+      "capital": "Kapsabet",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 0.22735237,
+        "lng": 35.12387568
+      },
+      "population": 885711,
+      "area_km2": 2884.5,
+      "community": [
+        "Nandi warriors"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "tea estates"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Nandi Hills fog"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "running tradition",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 30,
+      "name": "Baringo",
+      "code": "030",
+      "capital": "Kabarnet",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 0.72635213,
+        "lng": 36.01859133
+      },
+      "population": 666763,
+      "area_km2": 11075.3,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Njemps fishermen"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Lake Baringo",
+        "Tugen Hills"
+      ],
+      "wildlife": [
+        "hippos"
+      ],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "hot springs",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 31,
+      "name": "Laikipia",
+      "code": "031",
+      "capital": "Rumuruti",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": 0.28913392,
+        "lng": 36.82524807
+      },
+      "population": 518560,
+      "area_km2": 8696.1,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [
+        "black rhino"
+      ],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Ol Pejeta conservancy, Maasai/Samburu rangelands, luxury eco-camps",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 32,
+      "name": "Nakuru",
+      "code": "032",
+      "capital": "Nakuru",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": -0.45844803,
+        "lng": 36.1003836
+      },
+      "population": 2162202,
+      "area_km2": 7509.5,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Lake Nakuru flamingos",
+        "Menengai Crater"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Hyrax Hill, rift valley farms",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 33,
+      "name": "Narok",
+      "code": "033",
+      "capital": "Narok",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": -1.2798779,
+        "lng": 35.4763579
+      },
+      "population": 1157873,
+      "area_km2": 17921.2,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "Maasai jumping dance (adumu)",
+      "food": [],
+      "clothing": [
+        "beads"
+      ],
+      "landmarks": [],
+      "wildlife": [
+        "wildebeest migration"
+      ],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Maasai Mara, ochre",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 34,
+      "name": "Kajiado",
+      "code": "034",
+      "capital": "Kajiado",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": -2.11236921,
+        "lng": 36.77760606
+      },
+      "population": 1117840,
+      "area_km2": 21292.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [
+        "beaded collars"
+      ],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "enkiama ceremony",
+      "historical": "",
+      "landscape": "Maasai bomas, Amboseli & Kilimanjaro view",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 35,
+      "name": "Kericho",
+      "code": "035",
+      "capital": "Kericho",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": -0.31668251,
+        "lng": 35.22599737
+      },
+      "population": 901777,
+      "area_km2": 2454.5,
+      "community": [
+        "Kipsigis people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Tea capital",
+        "tea pickers"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "rolling green hills"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 36,
+      "name": "Bomet",
+      "code": "036",
+      "capital": "Bomet",
+      "region": "Rift Valley",
+      "coordinates": {
+        "lat": -0.71609482,
+        "lng": 35.23845882
+      },
+      "population": 875689,
+      "area_km2": 1997.9,
+      "community": [
+        "Kipsigis community"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Highlands tea"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Sotik, Mara River source",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 37,
+      "name": "Kakamega",
+      "code": "037",
+      "capital": "Kakamega",
+      "region": "Western",
+      "coordinates": {
+        "lat": 0.49719043,
+        "lng": 34.80092901
+      },
+      "population": 1867579,
+      "area_km2": 3033.8,
+      "community": [
+        "Luhya community"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "isukuti drum dance",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Kakamega Rainforest"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "sugarcane",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 38,
+      "name": "Vihiga",
+      "code": "038",
+      "capital": "Mbale",
+      "region": "Western",
+      "coordinates": {
+        "lat": 0.08485735,
+        "lng": 34.70778439
+      },
+      "population": 590013,
+      "area_km2": 531.3,
+      "community": [
+        "Maragoli people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "traditional homesteads",
+        "sorghum"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Lake Victoria edge"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "densest county",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 39,
+      "name": "Bungoma",
+      "code": "039",
+      "capital": "Bungoma",
+      "region": "Western",
+      "coordinates": {
+        "lat": 0.78569438,
+        "lng": 34.71875659
+      },
+      "population": 1670570,
+      "area_km2": 2206.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Mt. Elgon caves"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "Bukusu circumcision (Imbalu)",
+      "historical": "",
+      "landscape": "sugarcane, Luhya culture",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 40,
+      "name": "Busia",
+      "code": "040",
+      "capital": "Busia",
+      "region": "Western",
+      "coordinates": {
+        "lat": 0.37570659,
+        "lng": 34.26511053
+      },
+      "population": 893681,
+      "area_km2": 1628.4,
+      "community": [
+        "Teso/Samia people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "fishing on Lake Victoria"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "Kenya-Uganda border trade"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 41,
+      "name": "Siaya",
+      "code": "041",
+      "capital": "Siaya",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -0.05767351,
+        "lng": 34.19988707
+      },
+      "population": 993183,
+      "area_km2": 2496.1,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "nyatiti music",
+      "dance": "",
+      "food": [
+        "fishing"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Lake Victoria shore"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Luo culture, Barack Obama ancestral home",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 42,
+      "name": "Kisumu",
+      "code": "042",
+      "capital": "Kisumu",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -0.19437981,
+        "lng": 34.77732898
+      },
+      "population": 1155574,
+      "area_km2": 2009.5,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "ohangla dance",
+      "dance": "",
+      "food": [
+        "dala homesteads"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Lake Victoria",
+        "Kisumu Museum"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Luo heartland",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 43,
+      "name": "Homa Bay",
+      "code": "043",
+      "capital": "Homa Bay",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -0.56240265,
+        "lng": 34.31453245
+      },
+      "population": 1131950,
+      "area_km2": 3154.7,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "Luo fishing villages"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Lake Victoria sunset"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Ruma NP, Rondo Retreat, Kit Mikayi rock",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 44,
+      "name": "Migori",
+      "code": "044",
+      "capital": "Migori",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -1.01870394,
+        "lng": 34.3091728
+      },
+      "population": 1116436,
+      "area_km2": 2586.4,
+      "community": [
+        "Kuria people"
+      ],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [
+        "Lake Victoria"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [
+        "Gold mining (Migori)"
+      ],
+      "festival": "",
+      "historical": "",
+      "landscape": "Tanzania border culture",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 45,
+      "name": "Kisii",
+      "code": "045",
+      "capital": "Kisii",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -0.73667733,
+        "lng": 34.75351019
+      },
+      "population": 1266860,
+      "area_km2": 1317.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "abagusii music",
+      "dance": "",
+      "food": [
+        "tea"
+      ],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [],
+      "crafts": [
+        "Gusii soapstone carving (Tabaka)"
+      ],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "highland rain",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 46,
+      "name": "Nyamira",
+      "code": "046",
+      "capital": "Nyamira",
+      "region": "Nyanza",
+      "coordinates": {
+        "lat": -0.64937849,
+        "lng": 34.93339785
+      },
+      "population": 605576,
+      "area_km2": 912.5,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [
+        "tea farming"
+      ],
+      "clothing": [],
+      "landmarks": [
+        "Manga Ridge"
+      ],
+      "wildlife": [],
+      "crafts": [],
+      "economy": [],
+      "festival": "",
+      "historical": "",
+      "landscape": "Abagusii highlands, sacred trees, dense green",
+      "biome": "highlands",
+      "atmosphere_shader": "highland_mist",
+      "color_accent": "#4F7942"
+    },
+    {
+      "id": 47,
+      "name": "Nairobi",
+      "code": "047",
+      "capital": "Nairobi",
+      "region": "Nairobi",
+      "coordinates": {
+        "lat": -1.3004886,
+        "lng": 36.82792609
+      },
+      "population": 4397073,
+      "area_km2": 694.9,
+      "community": [],
+      "language": "English, Swahili",
+      "music": "",
+      "dance": "",
+      "food": [],
+      "clothing": [],
+      "landmarks": [],
+      "wildlife": [
+        "Nairobi NP (lions & skyscrapers)"
+      ],
+      "crafts": [],
+      "economy": [
+        "tech hub"
+      ],
+      "festival": "",
+      "historical": "Karen Blixen",
+      "landscape": "Capital city, matatu culture",
+      "biome": "savanna",
+      "atmosphere_shader": "savanna_heat",
+      "color_accent": "#C17D3C"
+    }
+  ]
+}
