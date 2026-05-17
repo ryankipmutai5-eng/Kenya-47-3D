@@ -21,7 +21,7 @@ export default class Globe {
   }
 
   createEarth() {
-    // Placeholder 8K texture URL (using a standard high-res one for now)
+    // Placeholder 8K texture URL
     const textureLoader = new THREE.TextureLoader();
     const earthTexture = textureLoader.load('https://raw.githubusercontent.com/mrdoob/three.js/master/examples/textures/planets/earth_atmos_2048.jpg');
     
@@ -34,6 +34,43 @@ export default class Globe {
     
     this.earth = new THREE.Mesh(geometry, material);
     this.group.add(this.earth);
+
+    this.createKenyaHighlight();
+  }
+
+  createKenyaHighlight() {
+    // Approx coordinates for Kenya on the globe
+    // Lat: 0.0236, Lon: 37.9062
+    const lat = 0.0236 * (Math.PI / 180);
+    const lon = 37.9062 * (Math.PI / 180);
+    const radius = 2.01;
+
+    const x = radius * Math.cos(lat) * Math.sin(lon + Math.PI / 2);
+    const y = radius * Math.sin(lat);
+    const z = radius * Math.cos(lat) * Math.cos(lon + Math.PI / 2);
+
+    const geometry = new THREE.CircleGeometry(0.1, 32);
+    const material = new THREE.MeshBasicMaterial({
+      color: 0xF5A623,
+      transparent: true,
+      opacity: 0.8,
+      side: THREE.DoubleSide
+    });
+
+    this.kenyaHighlight = new THREE.Mesh(geometry, material);
+    this.kenyaHighlight.position.set(x, y, z);
+    this.kenyaHighlight.lookAt(0, 0, 0);
+    this.earth.add(this.kenyaHighlight);
+
+    // Pulsing effect
+    gsap.to(this.kenyaHighlight.scale, {
+      x: 1.5,
+      y: 1.5,
+      duration: 1,
+      yoyo: true,
+      repeat: -1,
+      ease: 'sine.inOut'
+    });
   }
 
   createAtmosphere() {
