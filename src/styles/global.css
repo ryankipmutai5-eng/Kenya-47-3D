@@ -30,9 +30,23 @@ body {
 }
 
 #ui-overlay {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   z-index: 10;
   pointer-events: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-title {
+  font-size: 3rem;
+  color: var(--text-primary);
+  text-align: center;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
 }
 
 h1, h2, h3 {
