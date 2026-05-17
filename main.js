@@ -3,6 +3,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import Globe from './src/scenes/Globe.js';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -17,10 +18,29 @@ class Experience {
     this.setupCamera();
     this.setupRenderer();
     this.setupLights();
+    
+    // Initialize Globe Scene
+    this.globe = new Globe(this.scene, this.camera);
+
     this.addResizeListener();
     this.tick();
 
+    this.showIntroText();
+
     console.log('Kenya 47 3D Experience Initialized');
+  }
+
+  showIntroText() {
+    const overlay = document.querySelector('#ui-overlay');
+    const introText = document.createElement('div');
+    introText.id = 'intro-text';
+    introText.innerHTML = '<h1 class="intro-title">A Journey Through Kenya</h1>';
+    overlay.appendChild(introText);
+
+    gsap.fromTo('.intro-title', 
+      { opacity: 0, y: 20 }, 
+      { opacity: 1, y: 0, duration: 2, delay: 1, ease: 'power2.out' }
+    );
   }
 
   setupCamera() {
