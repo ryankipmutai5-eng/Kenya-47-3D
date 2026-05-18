@@ -1,0 +1,2113 @@
+{
+  "counties": [
+    {
+      "id": 1,
+      "name": "Mombasa",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/The_Administrator%27s_house%2C_Kilindini_-_Mombasa%2C_from_1898_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/NORTHERN_FRONTIER_DISTRICT_OF_KENYA_%28Hansard%2C_3_April_1963%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/FOOD_SECURITY_IN_AFRICA-_THE_IMPACT_OF_AGRICULTURAL_DEVELOPMENT_%28IA_gov.gpo.fdsys.CHRG-110hhrg36824%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mombasa_usks_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mombasa_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Burda_Recitation_at_Mombasa_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Tanganyka_Territory_%28IA_tanganykaterrito00fsjo%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Through_jungle_and_desert%3B_travels_in_Eastern_Africa_%28IA_cu31924028595993%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_great_plateau_of_northern_Rhodesia%2C_being_some_impressions_of_the_Tanganyika_Plateau_%28IA_greatplateauofno00goul%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kwale",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Locomotive_-_9326%2C_Maji_Ya_Chumui%2C_Kenya_April_2009._%286112920751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_kenya_wildlife_services_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kilifi",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chess_game_in_Kilifi_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Majestic_bamboo_tree_at_Kilifi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_kenya_wildlife_services_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/A_glimpse_into_a_Kilifi_family_homestead.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tana River",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/A_hippo_shot_by_Jorma_Gallen-Kallela_washes_up_on_the_bank_of_the_Tana_River._%2824390440290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/L%27Afrique%2C_Dress%C3%A9e_Sur_les_Observations_de_Mrs_De_l%27Academie_Royale_des_Sciences%2C_et_quelques_autres%3B_%26_sur_les_Memoires_les_%28MAPS_86%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tana_River%2C_Kenya_ESA23351187.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lamu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lamu%2C_Kenya_%2854342187052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lamu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lamu%2C_Kenya_%2830819335384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Traditional_Swahili_coral_architecture_in_Lamu%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lamu_Cultural_Festival_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Taita-Taveta",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Swahili and Mijikenda communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Taita_village_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Kanga and Kanzu traditional attire",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Swahili Biryani and Pilau",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Fort Jesus",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Dolphin and Coral Reef fish",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Elephant_Elegance-_Meet_one_of_the_Gentle_Giants_of_Tsavo_East_National_Park..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Swahili carved doors and coral stone houses",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Dhow building and kofiya embroidery",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Chakacha and Taarab music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Mombasa Carnival / Eid celebrations",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Garissa",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Somali and Gabra pastoralists",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kevin_Countermine_Garissa_Kenya_Waste_Management.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Guntiino and Macawiis",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Camel milk and Samosas",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Defense.gov_photo_essay_080312-F-7577K-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Desert dunes and local mosques",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Camels and Oryx",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tana_River%2C_Kenya_ESA23351187.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Nomadic 'Aqals' (portable huts)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Leather camel saddles and weaving",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Dhaanto and Somali folklore",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Camel derbies / Islamic festivals",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Wajir",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Somali and Gabra pastoralists",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Food_distribution_Arbakeramso_Wajir_Kenya_%2810695775275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Guntiino and Macawiis",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Camel milk and Samosas",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Receiving_monthly_WFP_food_rations_%2810716822213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Desert dunes and local mosques",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Camels and Oryx",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Giraffe_in_wajir%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Nomadic 'Aqals' (portable huts)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/1._Gorilla_war_strategy_Historical_landscape_recreated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Leather camel saddles and weaving",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Dhaanto and Somali folklore",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Camel derbies / Islamic festivals",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mandera",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Somali and Gabra pastoralists",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/NEkenyaFB60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Guntiino and Macawiis",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Camel milk and Samosas",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Desert dunes and local mosques",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Camels and Oryx",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/A_kenya_wildlife_services_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Nomadic 'Aqals' (portable huts)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/La_fortificatione%2C_guardia%2C_difesa%2C_et_espugnatione_delle_fortezze_esperimentata_in_diuerse_guerre_%281624%29_%2814578630067%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Leather camel saddles and weaving",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Dhaanto and Somali folklore",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Camel derbies / Islamic festivals",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Marsabit",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Camels_in_Marsabit%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Photograph_of_Kenyan_Sikh_pioneers_in-front_of_Gurdwara_Sahib_Railway_Landhies_in_Nairobi%2C_Kenya%2C_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Marsabit_National_Park%2C_Kenya_%28Copernicus_2025-04-13%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/DSC03731-GABBRA_COMMUNITY_DANCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Isiolo",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2RGR_STTT_In_Kenya_MOD_45162902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lolosoli_spidy_kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Elephants_of_Isiolo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Traditional_Luhya_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kenyan_Cultural_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Meru",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Tharaka-Nithi",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Embu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Kitui",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Machakos",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Makueni",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kamba and Tharaka communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Beaded leather belts and wraps"
+        },
+        {
+          "category": "Local Food",
+          "description": "Muthokoi and Mangoes"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Yatta Plateau / Seven Forks dams"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Ostriches and Giraffes"
+        },
+        {
+          "category": "Architecture",
+          "description": "Brick and tile farmsteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Akamba woodcarvings"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Kilumi and Mukanda"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Woodcarving fairs / Local market days"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nyandarua",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kikuyu and Meru communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Muthuru and Nyaituga traditional wear"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mukimo and Githeri"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Mount Kenya peaks"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Elephants and Sykes monkeys"
+        },
+        {
+          "category": "Architecture",
+          "description": "Highland timber and stone farmhouses"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Tea and Coffee processing"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Mwomboko and Mugithi"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Harvest festivals / Itwika ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nyeri",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kikuyu and Meru communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Muthuru and Nyaituga traditional wear"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mukimo and Githeri"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Mount Kenya peaks"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Elephants and Sykes monkeys"
+        },
+        {
+          "category": "Architecture",
+          "description": "Highland timber and stone farmhouses"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Tea and Coffee processing"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Mwomboko and Mugithi"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Harvest festivals / Itwika ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Kirinyaga",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kikuyu and Meru communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Muthuru and Nyaituga traditional wear"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mukimo and Githeri"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Mount Kenya peaks"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Elephants and Sykes monkeys"
+        },
+        {
+          "category": "Architecture",
+          "description": "Highland timber and stone farmhouses"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Tea and Coffee processing"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Mwomboko and Mugithi"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Harvest festivals / Itwika ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Murang'a",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kikuyu and Meru communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Muthuru and Nyaituga traditional wear"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mukimo and Githeri"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Mount Kenya peaks"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Elephants and Sykes monkeys"
+        },
+        {
+          "category": "Architecture",
+          "description": "Highland timber and stone farmhouses"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Tea and Coffee processing"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Mwomboko and Mugithi"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Harvest festivals / Itwika ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Kiambu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Kikuyu and Meru communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Muthuru and Nyaituga traditional wear"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mukimo and Githeri"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Mount Kenya peaks"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Elephants and Sykes monkeys"
+        },
+        {
+          "category": "Architecture",
+          "description": "Highland timber and stone farmhouses"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Tea and Coffee processing"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Mwomboko and Mugithi"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Harvest festivals / Itwika ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Turkana",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Turkana_community_culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Turkana_traditional_wear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Helping_families_cope_with_future_food_disasters_in_Kenya_%288046799944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Some_African_highways%3B_a_journey_of_two_American_women_to_Uganda_and_the_Transvaal_%28IA_someafricanhighw00kirk%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Spur-winged_Lapwing_%28Vanellus_spinosus%29_%28022A-WA03044X0007-0011M0%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/The_history_of_mankind_%28IA_cu31924092538200%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kitesurfing_during_the_Kaskazi_Season_-_Kenya_Kite_Cup_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Turkana_people_dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "West Pokot",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Samburu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Trans-Nzoia",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Uasin Gishu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Elgeyo-Marakwet",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Nandi",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Baringo",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Laikipia",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Nakuru",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Lake Turkana (Jade Sea)"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Narok",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Masai_language%3B_grammatical_notes_together_with_a_vocabulary_%28IA_masailanguagegra00hindrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/OJ_L_5_of_2023_-_CS_Czech.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Maasai Mara",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Fort_Hall_to_Nakuru_via_Nyeri%2C_Guaso_Niro_or_Nyiro%2C_Guaso_Narok%2C_Laikepia_%26c._-_War_Office_ledger_%28WOMAT-AFR-BEA-134-2-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/The_2016_World_Wildlife_Day_Celebrations_in_Narok_%2825103931249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Architektonick%C3%BD_obzor_%28IA_architektonickyo08unse%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/OJ_L_183_of_2013_-_CS_Czech.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/OJ_C_151_of_2013_-_CS_Czech.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Kajiado",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Maasai Mara"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kericho",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Maasai Mara"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Bomet",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Maasai and Kalenjin warriors"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Maasai Shuka and beaded jewelry"
+        },
+        {
+          "category": "Local Food",
+          "description": "Mursik (sour milk) and roasted meat"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Maasai Mara"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Desert crocodiles"
+        },
+        {
+          "category": "Architecture",
+          "description": "Maasai Manyattas (mud huts)"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Beadwork and leather tanning"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Adumu (Jumping dance)"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Maasai Eunoto / Athletic marathons"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Kakamega",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luhya and Teso communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Traditional hides and beaded headgears"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ingoho (Chicken) and Ugali"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Crying Stone of Ilesi / Mt. Elgon"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Bullfighting bulls and rainforest birds"
+        },
+        {
+          "category": "Architecture",
+          "description": "Traditional round thatched homesteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Pottery and sisal basket weaving"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Isukuti drum dance"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Bullfighting festivals / Circumcision ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Vihiga",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luhya and Teso communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Traditional hides and beaded headgears"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ingoho (Chicken) and Ugali"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Crying Stone of Ilesi / Mt. Elgon"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Bullfighting bulls and rainforest birds"
+        },
+        {
+          "category": "Architecture",
+          "description": "Traditional round thatched homesteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Pottery and sisal basket weaving"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Isukuti drum dance"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Bullfighting festivals / Circumcision ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Bungoma",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luhya and Teso communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Traditional hides and beaded headgears"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ingoho (Chicken) and Ugali"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Crying Stone of Ilesi / Mt. Elgon"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Bullfighting bulls and rainforest birds"
+        },
+        {
+          "category": "Architecture",
+          "description": "Traditional round thatched homesteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Pottery and sisal basket weaving"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Isukuti drum dance"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Bullfighting festivals / Circumcision ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Busia",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luhya and Teso communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Traditional hides and beaded headgears"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ingoho (Chicken) and Ugali"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Crying Stone of Ilesi / Mt. Elgon"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Bullfighting bulls and rainforest birds"
+        },
+        {
+          "category": "Architecture",
+          "description": "Traditional round thatched homesteads"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Pottery and sisal basket weaving"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Isukuti drum dance"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Bullfighting festivals / Circumcision ceremonies"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Siaya",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Kisumu",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/U.S._Army_medical_researchers_take_part_in_World_Malaria_Day_2010%2C_Kisumu%2C_Kenya_April_25%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/A_Colony_In_The_Making.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/THE_EFFECT_OF_TRIPLE_SUPER_PHOSPHATE%2C_UREA_AND_LIME_ON_SOYBEAN_%28GLYCINE_MAX%29_GROWTH_RATE_AND_YIELD_IN_FERRASOLS_OF_KOMBEWA%2C_KISUMU_COUNTY._Shicheyi_Philip_Research_Project.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cairo_to_Kisumu%3B_%28IA_cairotokisumu00carp%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gecko%2C_Kisumu%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kentons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/With_the_Nigerians_in_German_East_Africa.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Navy_and_Marine_Corps_Medical_News_February_2013_%28IA_MEDNEWSFebruary2013%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Annual_ritual_observed_on_the_10th_day_of_Muharram_in_Al_Manama_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Homa Bay",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Migori",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Kisii",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Nyamira",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Luo and Kuria communities"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Sisals and beaded ornaments"
+        },
+        {
+          "category": "Local Food",
+          "description": "Ngege (Tilapia) and Kuon (Ugali)"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "Kit Mikayi / Lake Victoria shores"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Hippopotamus and Nile Perch"
+        },
+        {
+          "category": "Architecture",
+          "description": "Luo 'Dala' homestead layouts"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Iron smithing and fishing nets"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Ohangla and Nyatiti music"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Got Ramogi festival / Fishing competitions"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Nairobi",
+      "grid_items": [
+        {
+          "category": "People / Community",
+          "description": "Urban cosmopolitan youth",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nubian_community_in_Kibera_Nairobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Traditional Dress",
+          "description": "Modern fashion and street style",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kenyan_people_in_traditional_dress%2C_Nairobi%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Local Food",
+          "description": "Street food (Smokie Pasua, Mutura)",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beautiful_local_market_of_Nariobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Landmark / Site",
+          "description": "KICC / Nairobi National Park",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nairobi%27s_Central_Business_District_Landmark_Skyscrapers..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Wildlife",
+          "description": "Lions and Black Rhinos",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Baby_elephants_at_David_Sheldrick_Wildlife_Trust_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Architecture",
+          "description": "Modern Skyscrapers and Art Deco",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nairobi%2C_Kenya_is_known_for_its_prowess_in_construction_and_architecture._The_beautiful_skyscrapers_and_uniquely_designed_structures_give_the_Westlands_a_beautiful_landscape_view._They_mostly_consist_of_co_work_spaces_for_businesses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Crafts / Economy",
+          "description": "Jua Kali metalwork / Digital tech",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Seasonality_and_pathogen_transmission_in_pastoral_cattle_contact_networks.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Cultural Dance",
+          "description": "Gengetone and Hip-hop",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ganda_Cultural_Dance_at_a_Bridal_Shower_Celebration_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "category": "Festival / Ritual",
+          "description": "Nairobi Film Festival / Tech summits",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nairobi_colfest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ]
+    }
+  ]
+}
