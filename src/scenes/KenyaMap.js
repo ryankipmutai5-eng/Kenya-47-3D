@@ -60,6 +60,7 @@ export default class KenyaMap {
       // geometry.center(); // Don't center yet, we use projection coords
 
       const mesh = new THREE.Mesh(geometry, material);
+      mesh.userData.isCounty = true;
       countyGroup.add(mesh);
 
       const edges = new THREE.EdgesGeometry(geometry);
@@ -138,5 +139,47 @@ export default class KenyaMap {
 
   hide() {
     this.group.visible = false;
+  }
+
+  highlightCounty(id, visitedIds = new Set()) {
+    this.features.forEach(feature => {
+      if (feature.data.id === id) {
+        // Active pulse
+        gsap.to(feature.mesh.material.emissive, {
+          r: 0.96, g: 0.65, b: 0.14,
+          duration: 0.5,
+          yoyo: true,
+          repeat: 3
+        });
+        
+        gsap.to(feature.group.position, {
+          z: 0.1,
+          duration: 0.5,
+          ease: 'power2.out'
+        });
+      } else {
+        // Reset or set visited state
+        if (visitedIds.has(feature.data.id)) {
+          // Soft visited glow
+          feature.mesh.material.emissive.setHex(0x332200);
+        } else {
+          feature.mesh.material.emissive.setHex(0x000000);
+        }
+
+        gsap.to(feature.group.position, {
+          z: 0,
+          duration: 0.5
+        });
+      }
+    });
+  }
+
+  getCountyCentroid(id) {
+    const feature = this.features.find(f => f.data.id === id);
+    if (feature && feature.data.center_lat && feature.data.center_lon) {
+      const [x, y] = this.projection([feature.data.center_lon, feature.data.center_lat]);
+      return { x, y: -y, z: 0.5 };
+    }
+    return null;
   }
 }

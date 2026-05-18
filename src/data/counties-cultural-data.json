@@ -35,7 +35,57 @@
       "landscape": "Swahili architecture, dhow boats",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/01/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/01/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/01/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/01/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/01/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/01/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/01/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/01/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/01/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mombasa+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 2,
@@ -70,7 +120,57 @@
       "landscape": "coastal villages, coconut culture",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/02/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/02/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/02/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/02/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/02/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/02/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/02/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/02/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/02/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kwale+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 3,
@@ -104,7 +204,57 @@
       "landscape": "Giriama culture",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/03/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/03/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/03/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/03/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/03/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/03/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/03/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/03/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/03/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kilifi+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 4,
@@ -139,7 +289,57 @@
       "landscape": "Orma & Pokomo communities",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/04/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/04/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/04/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/04/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/04/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/04/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/04/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/04/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/04/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tana River+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 5,
@@ -170,7 +370,57 @@
       "landscape": "donkeys, jahazi sailing, coral stone houses",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/05/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/05/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/05/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/05/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/05/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/05/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/05/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/05/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/05/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Lamu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 6,
@@ -208,7 +458,57 @@
       "landscape": "",
       "biome": "coastal",
       "atmosphere_shader": "coastal_haze",
-      "color_accent": "#00A8CC"
+      "color_accent": "#00A8CC",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/06/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/06/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/06/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/06/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/06/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/06/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/06/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/06/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/06/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Taita-Taveta+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/coast.mp3"
+      }
     },
     {
       "id": 7,
@@ -239,7 +539,57 @@
       "landscape": "Somali culture, camel herding, nomadic life, mosques, desert landscape",
       "biome": "arid",
       "atmosphere_shader": "heat_haze",
-      "color_accent": "#E6BE8A"
+      "color_accent": "#E6BE8A",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/07/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/07/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/07/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/07/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/07/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/07/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/07/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/07/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/07/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Garissa+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 8,
@@ -270,7 +620,57 @@
       "landscape": "Northern Frontier pastoral life, Borana/Ajuran clans, dry savanna",
       "biome": "arid",
       "atmosphere_shader": "heat_haze",
-      "color_accent": "#E6BE8A"
+      "color_accent": "#E6BE8A",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/08/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/08/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/08/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/08/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/08/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/08/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/08/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/08/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/08/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Wajir+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 9,
@@ -301,7 +701,57 @@
       "landscape": "Tri-border culture (Kenya/Ethiopia/Somalia), Islamic architecture, camels",
       "biome": "arid",
       "atmosphere_shader": "heat_haze",
-      "color_accent": "#E6BE8A"
+      "color_accent": "#E6BE8A",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/09/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/09/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/09/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/09/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/09/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/09/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/09/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/09/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/09/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Mandera+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 10,
@@ -335,7 +785,57 @@
       "landscape": "camel racing",
       "biome": "arid",
       "atmosphere_shader": "heat_haze",
-      "color_accent": "#E6BE8A"
+      "color_accent": "#E6BE8A",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/10/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/10/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/10/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/10/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/10/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/10/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/10/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/10/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/10/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Marsabit+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 11,
@@ -366,7 +866,57 @@
       "landscape": "Gateway to the north, Samburu/Borana/Somali mix, doum palms",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/11/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/11/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/11/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/11/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/11/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/11/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/11/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/11/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/11/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Isiolo+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 12,
@@ -404,7 +954,57 @@
       "landscape": "",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/12/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/12/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/12/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/12/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/12/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/12/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/12/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/12/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/12/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Meru+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 13,
@@ -440,7 +1040,57 @@
       "landscape": "traditional granaries",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/13/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/13/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/13/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/13/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/13/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/13/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/13/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/13/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/13/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Tharaka-Nithi+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 14,
@@ -475,7 +1125,57 @@
       "landscape": "Tana River source",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/14/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/14/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/14/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/14/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/14/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/14/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/14/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/14/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/14/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Embu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 15,
@@ -510,7 +1210,57 @@
       "landscape": "makonde sculpture, baobab trees",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/15/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/15/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/15/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/15/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/15/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/15/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/15/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/15/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/15/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kitui+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 16,
@@ -544,7 +1294,57 @@
       "landscape": "Akamba culture, matunda orchards",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/16/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/16/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/16/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/16/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/16/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/16/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/16/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/16/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/16/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Machakos+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 17,
@@ -578,7 +1378,57 @@
       "landscape": "dry riverbeds",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/17/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/17/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/17/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/17/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/17/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/17/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/17/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/17/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/17/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Makueni+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/northern.mp3"
+      }
     },
     {
       "id": 18,
@@ -609,7 +1459,57 @@
       "landscape": "Aberdare highlands, pyrethrum, cold highland mist, Kinangop",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/18/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/18/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/18/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/18/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/18/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/18/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/18/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/18/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/18/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyandarua+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/highlands.mp3"
+      }
     },
     {
       "id": 19,
@@ -640,7 +1540,57 @@
       "landscape": "Kikuyu heartland, Lord Baden-Powell grave, Treetops, Aberdare NP",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/19/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/19/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/19/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/19/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/19/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/19/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/19/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/19/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/19/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyeri+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/highlands.mp3"
+      }
     },
     {
       "id": 20,
@@ -671,7 +1621,57 @@
       "landscape": "Sacred Kirinyaga (Mt. Kenya), Gikuyu origin myths, green highlands",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/20/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/20/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/20/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/20/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/20/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/20/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/20/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/20/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/20/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kirinyaga+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/highlands.mp3"
+      }
     },
     {
       "id": 21,
@@ -704,7 +1704,57 @@
       "landscape": "River Chania",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/21/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/21/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/21/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/21/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/21/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/21/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/21/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/21/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/21/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Murang'a+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/highlands.mp3"
+      }
     },
     {
       "id": 22,
@@ -739,7 +1789,57 @@
       "landscape": "Kikuyu land",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/22/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/22/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/22/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/22/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/22/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/22/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/22/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/22/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/22/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kiambu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/highlands.mp3"
+      }
     },
     {
       "id": 23,
@@ -774,7 +1874,57 @@
       "landscape": "camel",
       "biome": "arid",
       "atmosphere_shader": "heat_haze",
-      "color_accent": "#E6BE8A"
+      "color_accent": "#E6BE8A",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/23/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/23/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/23/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/23/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/23/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/23/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/23/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/23/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/23/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Turkana+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 24,
@@ -809,7 +1959,57 @@
       "landscape": "Marich Pass",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/24/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/24/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/24/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/24/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/24/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/24/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/24/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/24/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/24/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=West Pokot+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 25,
@@ -844,7 +2044,57 @@
       "landscape": "Samburu NR",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/25/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/25/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/25/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/25/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/25/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/25/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/25/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/25/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/25/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Samburu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 26,
@@ -878,7 +2128,57 @@
       "landscape": "Nzoia River",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/26/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/26/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/26/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/26/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/26/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/26/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/26/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/26/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/26/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Trans-Nzoia+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 27,
@@ -910,7 +2210,57 @@
       "landscape": "maize farms, Kipchoge legacy",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/27/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/27/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/27/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/27/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/27/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/27/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/27/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/27/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/27/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Uasin Gishu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 28,
@@ -941,7 +2291,57 @@
       "landscape": "Kerio Valley, Marakwet irrigation furrows, cliff dwellers",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/28/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/28/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/28/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/28/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/28/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/28/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/28/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/28/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/28/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Elgeyo-Marakwet+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 29,
@@ -976,7 +2376,57 @@
       "landscape": "running tradition",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/29/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/29/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/29/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/29/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/29/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/29/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/29/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/29/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/29/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nandi+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 30,
@@ -1012,7 +2462,57 @@
       "landscape": "hot springs",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/30/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/30/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/30/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/30/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/30/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/30/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/30/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/30/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/30/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Baringo+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 31,
@@ -1043,7 +2543,57 @@
       "landscape": "Ol Pejeta conservancy, Maasai/Samburu rangelands, luxury eco-camps",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/31/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/31/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/31/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/31/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/31/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/31/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/31/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/31/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/31/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Laikipia+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 32,
@@ -1075,7 +2625,57 @@
       "landscape": "Hyrax Hill, rift valley farms",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/32/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/32/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/32/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/32/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/32/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/32/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/32/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/32/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/32/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nakuru+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 33,
@@ -1108,7 +2708,57 @@
       "landscape": "Maasai Mara, ochre",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/33/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/33/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/33/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/33/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/33/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/33/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/33/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/33/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/33/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Narok+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 34,
@@ -1139,7 +2789,57 @@
       "landscape": "Maasai bomas, Amboseli & Kilimanjaro view",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/34/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/34/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/34/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/34/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/34/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/34/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/34/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/34/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/34/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kajiado+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 35,
@@ -1175,7 +2875,57 @@
       "landscape": "",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/35/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/35/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/35/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/35/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/35/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/35/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/35/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/35/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/35/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kericho+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 36,
@@ -1208,7 +2958,57 @@
       "landscape": "Sotik, Mara River source",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/36/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/36/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/36/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/36/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/36/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/36/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/36/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/36/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/36/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bomet+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/rift-valley.mp3"
+      }
     },
     {
       "id": 37,
@@ -1241,7 +3041,57 @@
       "landscape": "sugarcane",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/37/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/37/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/37/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/37/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/37/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/37/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/37/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/37/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/37/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kakamega+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 38,
@@ -1277,7 +3127,57 @@
       "landscape": "densest county",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/38/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/38/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/38/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/38/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/38/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/38/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/38/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/38/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/38/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Vihiga+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 39,
@@ -1308,7 +3208,57 @@
       "landscape": "sugarcane, Luhya culture",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/39/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/39/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/39/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/39/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/39/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/39/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/39/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/39/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/39/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Bungoma+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 40,
@@ -1343,7 +3293,57 @@
       "landscape": "",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/40/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/40/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/40/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/40/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/40/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/40/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/40/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/40/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/40/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Busia+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 41,
@@ -1376,7 +3376,57 @@
       "landscape": "Luo culture, Barack Obama ancestral home",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/41/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/41/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/41/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/41/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/41/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/41/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/41/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/41/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/41/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Siaya+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 42,
@@ -1410,7 +3460,57 @@
       "landscape": "Luo heartland",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/42/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/42/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/42/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/42/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/42/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/42/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/42/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/42/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/42/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisumu+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 43,
@@ -1443,7 +3543,57 @@
       "landscape": "Ruma NP, Rondo Retreat, Kit Mikayi rock",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/43/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/43/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/43/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/43/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/43/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/43/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/43/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/43/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/43/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Homa Bay+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 44,
@@ -1478,7 +3628,57 @@
       "landscape": "Tanzania border culture",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/44/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/44/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/44/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/44/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/44/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/44/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/44/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/44/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/44/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Migori+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 45,
@@ -1511,7 +3711,57 @@
       "landscape": "highland rain",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/45/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/45/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/45/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/45/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/45/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/45/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/45/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/45/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/45/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Kisii+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 46,
@@ -1544,7 +3794,57 @@
       "landscape": "Abagusii highlands, sacred trees, dense green",
       "biome": "highlands",
       "atmosphere_shader": "highland_mist",
-      "color_accent": "#4F7942"
+      "color_accent": "#4F7942",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/46/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/46/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/46/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/46/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/46/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/46/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/46/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/46/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/46/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nyamira+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/western.mp3"
+      }
     },
     {
       "id": 47,
@@ -1577,7 +3877,57 @@
       "landscape": "Capital city, matatu culture",
       "biome": "savanna",
       "atmosphere_shader": "savanna_heat",
-      "color_accent": "#C17D3C"
+      "color_accent": "#C17D3C",
+      "assets": {
+        "visual_grid": [
+          {
+            "category": "People / Community",
+            "asset_path": "/assets/textures/county-cultural/47/people.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+people"
+          },
+          {
+            "category": "Traditional Dress",
+            "asset_path": "/assets/textures/county-cultural/47/dress.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+dress"
+          },
+          {
+            "category": "Local Food",
+            "asset_path": "/assets/textures/county-cultural/47/food.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+food"
+          },
+          {
+            "category": "Landmark / Site",
+            "asset_path": "/assets/textures/county-cultural/47/landmark.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+landmark"
+          },
+          {
+            "category": "Wildlife",
+            "asset_path": "/assets/textures/county-cultural/47/wildlife.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+wildlife"
+          },
+          {
+            "category": "Architecture",
+            "asset_path": "/assets/textures/county-cultural/47/architecture.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+architecture"
+          },
+          {
+            "category": "Crafts / Economy",
+            "asset_path": "/assets/textures/county-cultural/47/crafts.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+crafts"
+          },
+          {
+            "category": "Cultural Dance",
+            "asset_path": "/assets/textures/county-cultural/47/dance.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+dance"
+          },
+          {
+            "category": "Festival / Ritual",
+            "asset_path": "/assets/textures/county-cultural/47/festival.jpg",
+            "placeholder_url": "https://placehold.co/600x400?text=Nairobi+festival"
+          }
+        ],
+        "audio_motif": "/assets/audio/motifs/nairobi.mp3"
+      }
     }
   ]
 }
