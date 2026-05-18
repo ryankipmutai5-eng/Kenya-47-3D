@@ -76,6 +76,43 @@ class Experience {
   }
 
   addInteractions() {
+    window.addEventListener('mousemove', (event) => {
+      this.mouse.x = (event.clientX / this.width) * 2 - 1;
+      this.mouse.y = -(event.clientY / this.height) * 2 + 1;
+
+      if (!this.kenyaMap.group.visible || this.activeCounty) return;
+
+      this.raycaster.setFromCamera(this.mouse, this.camera);
+      const intersects = this.raycaster.intersectObjects(this.kenyaMap.group.children, true);
+
+      if (intersects.length > 0) {
+        let object = intersects[0].object;
+        while (object && !object.userData.isCounty && object.parent !== this.kenyaMap.group) {
+          object = object.parent;
+        }
+        const feature = this.kenyaMap.features.find(f => f.group === object || f.mesh === intersects[0].object);
+        if (feature) {
+          this.kenyaMap.features.forEach(f => {
+            if (f === feature) {
+              f.mesh.material.emissive.setHex(0x554400); // Hover glow
+            } else if (!this.visitedCounties.has(f.data.id)) {
+              f.mesh.material.emissive.setHex(0x000000);
+            }
+          });
+          document.body.style.cursor = 'pointer';
+        }
+      } else {
+        this.kenyaMap.features.forEach(f => {
+          if (!this.visitedCounties.has(f.data.id)) {
+            f.mesh.material.emissive.setHex(0x000000);
+          } else {
+            f.mesh.material.emissive.setHex(0x332200);
+          }
+        });
+        document.body.style.cursor = 'default';
+      }
+    });
+
     window.addEventListener('click', (event) => {
       if (!this.kenyaMap.group.visible) return;
 
@@ -306,4 +343,3 @@ class Experience {
 }
 
 new Experience();
-// Boilerplate initialized
