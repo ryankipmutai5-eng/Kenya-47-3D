@@ -7,6 +7,7 @@ import Globe from './src/scenes/Globe.js';
 import KenyaMap from './src/scenes/KenyaMap.js';
 import CountySidebar from './src/components/CountySidebar.js';
 import CountyCard from './src/components/CountyCard.js';
+import FinalScene from './src/scenes/FinalScene.js';
 import { Howl } from 'howler';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -36,6 +37,7 @@ class Experience {
     // Initialize Components
     this.sidebar = new CountySidebar();
     this.countyCard = new CountyCard();
+    this.finalScene = new FinalScene(this.scene, this.camera);
     
     // Initialize Scenes
     this.globe = new Globe(this.scene, this.camera);
@@ -54,8 +56,8 @@ class Experience {
 
   async loadData() {
     const [dataRes, manifestRes] = await Promise.all([
-      fetch('/src/data/counties-cultural-data.json'),
-      fetch('/src/data/cultural-manifest.json')
+      fetch('/data/counties-cultural-data.json'),
+      fetch('/data/cultural-manifest.json')
     ]);
     this.culturalData = await dataRes.json();
     this.culturalManifest = await manifestRes.json();
@@ -68,7 +70,7 @@ class Experience {
     regions.forEach(region => {
       const slug = region.toLowerCase().replace(' ', '-');
       this.audioInstances[region] = new Howl({
-        src: [`/src/assets/audio/motifs/${slug}.mp3`],
+        src: [`/assets/audio/motifs/${slug}.mp3`],
         volume: 0.5,
         loop: true
       });
@@ -176,6 +178,119 @@ class Experience {
 
     // Show Card
     this.countyCard.show(county, this.culturalManifest);
+
+    if (this.visitedCounties.size >= 47) {
+      this.showFinishButton();
+    }
+  }
+
+  showFinishButton() {
+    if (document.getElementById('finish-journey-btn')) return;
+    
+    const btn = document.createElement('button');
+    btn.id = 'finish-journey-btn';
+    btn.className = 'ui-btn';
+    btn.innerText = 'Celebrate Unified Kenya';
+    btn.style.position = 'fixed';
+    btn.style.bottom = '40px';
+    btn.style.left = '50%';
+    btn.style.transform = 'translateX(-50%)';
+    btn.style.zIndex = '300';
+    btn.style.pointerEvents = 'auto';
+    
+    document.querySelector('#ui-overlay').appendChild(btn);
+    
+    btn.addEventListener('click', () => {
+      btn.remove();
+      this.triggerFinalSequence();
+    });
+
+    gsap.fromTo(btn, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 1 });
+  }
+
+  async triggerFinalSequence() {
+    this.activeCounty = null;
+    this.countyCard.hide();
+    document.querySelector('#county-sidebar').classList.remove('visible');
+
+    // 1. FINAL ZOOM OUT & Map Light Up
+    const tl = gsap.timeline();
+
+    // Pull camera back to show full map
+    tl.to(this.camera.position, {
+      x: 0,
+      y: 0,
+      z: 1.5,
+      duration: 3,
+      ease: 'power3.inOut'
+    });
+
+    // Light up all counties & Show labels
+    tl.call(() => {
+      this.kenyaMap.lightUpAll();
+      this.finalScene.createParticleBurst(0);
+      this.finalScene.createParticleBurst(0.5); // Second burst
+      this.finalScene.createParticleBurst(1);   // Third burst
+    }, null, 1);
+
+    // 2. GLOBAL CONTEXT - Seamless zoom out to Globe
+    tl.to(this.kenyaMap.group.scale, {
+      x: 0.05, y: 0.05, z: 0.05,
+      duration: 4,
+      ease: 'power2.inOut'
+    }, 4);
+
+    tl.call(() => {
+      this.globe.group.visible = true;
+      this.globe.group.scale.set(0.1, 0.1, 0.1);
+      this.globe.showGoldenJewel();
+    }, null, 4.5);
+
+    tl.to(this.globe.group.scale, {
+      x: 1, y: 1, z: 1,
+      duration: 4,
+      ease: 'power2.inOut'
+    }, 4.5);
+
+    tl.to(this.globe.earth.material, {
+      opacity: 1,
+      duration: 2
+    }, 5);
+
+    tl.to(this.globe.atmosphere.material.uniforms.uOpacity, {
+      value: 1,
+      duration: 2
+    }, 5);
+
+    tl.to(this.globe.stars.material.uniforms.uOpacity, {
+      value: 1,
+      duration: 2
+    }, 5);
+
+    tl.to(this.camera.position, {
+      z: 5,
+      x: 0,
+      y: 0,
+      duration: 5,
+      ease: 'power2.inOut'
+    }, 4);
+
+    // 3. FINAL TYPOGRAPHY & UI
+    tl.call(() => {
+      this.finalScene.show();
+    }, null, 8);
+
+    // 4. AUDIO SWELL
+    this.playAudioSwell();
+  }
+
+  playAudioSwell() {
+    this.stopAllAudio();
+    const swell = new Howl({
+      src: ['/assets/audio/final-swell.mp3'],
+      volume: 0.8
+    });
+    swell.play();
   }
 
   playRegionAudio(region) {
@@ -252,10 +367,14 @@ class Experience {
       transparent: true
     }, 1);
 
-    tl.to(this.globe.atmosphere.material, {
-      opacity: 0,
-      duration: 1,
-      transparent: true
+    tl.to(this.globe.atmosphere.material.uniforms.uOpacity, {
+      value: 0,
+      duration: 1
+    }, 1);
+
+    tl.to(this.globe.stars.material.uniforms.uOpacity, {
+      value: 0,
+      duration: 1
     }, 1);
 
     tl.call(() => {

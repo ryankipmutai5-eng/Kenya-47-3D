@@ -26,7 +26,7 @@ export default class CountyCard {
       <div class="cultural-grid">
         ${manifest.grid_items.map(item => `
           <div class="grid-item">
-            <div class="grid-image" style="background-image: url('${item.image_url || `/src/assets/textures/county-cultural/placeholders/${this.getPlaceholder(item.category)}.svg`}')"></div>
+            <div class="grid-image" style="background-image: url('${item.image_url || `/assets/textures/county-cultural/placeholders/${this.getPlaceholder(item.category)}.svg`}')"></div>
             <div class="grid-caption">
               <span class="category">${item.category}</span>
               <p>${item.description}</p>

@@ -1,4 +1,4 @@
-import './src/styles/global.css';
+import '../styles/global.css';
 
 export default class CountySidebar {
   constructor() {
@@ -8,7 +8,7 @@ export default class CountySidebar {
 
   async createSidebar() {
     try {
-      const response = await fetch('/src/data/counties-cultural-data.json');
+      const response = await fetch('/data/counties-cultural-data.json');
       const data = await response.json();
       this.counties = data.counties;
       this.render();
