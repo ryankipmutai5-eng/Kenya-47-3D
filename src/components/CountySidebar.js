@@ -35,6 +35,14 @@ export default class CountySidebar {
     `;
     this.container.appendChild(sidebar);
     
+    // Add click listeners
+    sidebar.querySelectorAll('.county-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const id = parseInt(item.getAttribute('data-id'));
+        window.dispatchEvent(new CustomEvent('county-selected', { detail: { id } }));
+      });
+    });
+    
     // Styling is in global.css
   }
 }
