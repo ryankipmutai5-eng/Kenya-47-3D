@@ -69,16 +69,24 @@ export default class KenyaMap {
       countyGroup.add(line);
 
       // Store reference
+      const countyId = parseInt(feature.properties.adm1_pcode.substring(2));
+      
+      // Calculate dynamic centroid
+      const centroid = d3.geoCentroid(feature);
+      const [lon, lat] = centroid;
+
       this.features.push({
         group: countyGroup,
         mesh: mesh,
-        data: feature.properties
+        data: {
+          ...feature.properties,
+          id: countyId,
+          centroid: { lon, lat }
+        }
       });
 
-      // Add label if center is available
-      if (feature.properties.center_lat && feature.properties.center_lon) {
-        this.addLabel(feature.properties.name, feature.properties.center_lon, feature.properties.center_lat);
-      }
+      // Add label using dynamic centroid
+      this.addLabel(feature.properties.adm1_name, lon, lat);
     });
 
     // Rotate map to face camera
@@ -179,8 +187,9 @@ export default class KenyaMap {
 
   getCountyCentroid(id) {
     const feature = this.features.find(f => f.data.id === id);
-    if (feature && feature.data.center_lat && feature.data.center_lon) {
-      const [x, y] = this.projection([feature.data.center_lon, feature.data.center_lat]);
+    if (feature && feature.data.centroid) {
+      const { lon, lat } = feature.data.centroid;
+      const [x, y] = this.projection([lon, lat]);
       return { x, y: -y, z: 0.5 };
     }
     return null;
