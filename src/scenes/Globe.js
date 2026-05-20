@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import gsap from 'gsap';
-import { atmosphereVertexShader, atmosphereFragmentShader } from '../shaders/atmosphere.glsl';
-import { starsVertexShader, starsFragmentShader } from '../shaders/stars.glsl';
+import { atmosphereVertexShader, atmosphereFragmentShader } from '../shaders/atmosphere.js';
+import { starsVertexShader, starsFragmentShader } from '../shaders/stars.js';
 
 export default class Globe {
   constructor(scene, camera) {
@@ -29,7 +29,9 @@ export default class Globe {
     const material = new THREE.MeshStandardMaterial({
       map: earthTexture,
       roughness: 0.5,
-      metalness: 0.1
+      metalness: 0.1,
+      transparent: true,
+      opacity: 1
     });
     
     this.earth = new THREE.Mesh(geometry, material);
@@ -76,6 +78,9 @@ export default class Globe {
   createAtmosphere() {
     const geometry = new THREE.SphereGeometry(2.1, 64, 64);
     const material = new THREE.ShaderMaterial({
+      uniforms: {
+        uOpacity: { value: 1.0 }
+      },
       vertexShader: atmosphereVertexShader,
       fragmentShader: atmosphereFragmentShader,
       side: THREE.BackSide,
@@ -117,6 +122,9 @@ export default class Globe {
     geometry.setAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
     const material = new THREE.ShaderMaterial({
+      uniforms: {
+        uOpacity: { value: 1.0 }
+      },
       vertexShader: starsVertexShader,
       fragmentShader: starsFragmentShader,
       transparent: true,
@@ -148,5 +156,26 @@ export default class Globe {
 
   update() {
     // Rotation handled by GSAP, but could add frame-based logic here
+  }
+
+  showGoldenJewel() {
+    gsap.to(this.kenyaHighlight.material, {
+      opacity: 1,
+      duration: 2
+    });
+    
+    gsap.to(this.kenyaHighlight.scale, {
+      x: 3,
+      y: 3,
+      duration: 1.5,
+      yoyo: true,
+      repeat: -1,
+      ease: 'power2.inOut'
+    });
+
+    // Add a light to make it glow
+    const pointLight = new THREE.PointLight(0xFFD700, 2, 5);
+    pointLight.position.copy(this.kenyaHighlight.position);
+    this.earth.add(pointLight);
   }
 }
